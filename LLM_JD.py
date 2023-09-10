@@ -26,7 +26,7 @@ def main():
     skillset_required = st.text_input("Enter the skills required: ")
     company_name = st.text_input("Enter the company name: ")
     about_company = st.text_area("Enter the about company: ")
-    no_of_empolyees = st.text_input("Enter the company's number of employees: ")
+    no_of_employees = st.text_input("Enter the company's number of employees: ")
     job_type = st.text_input("Enter the job type: ")
     job_location = st.text_input("Enter the job location: ")
     date_posted = st.date_input("Enter the date: ")
@@ -37,7 +37,7 @@ def main():
 Date Posted: {date_posted}
 Company: {company_name}
 About Company: {about_company}
-Company's no. of empolyees: {no_of_employees}
+Company's no. of employees: {no_of_employees}
 Job Title: {job_title}
 Job Type: {job_type}
 Location: {job_location}
