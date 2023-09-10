@@ -34,12 +34,19 @@ def main():
 
 
     job_details = f"""
+    
 Date Posted: {date_posted}
+
 Company: {company_name}
+
 About Company: {about_company}
+
 Company's no. of employees: {no_of_employees}
+
 Job Title: {job_title}
+
 Job Type: {job_type}
+
 Location: {job_location}
 
 """
