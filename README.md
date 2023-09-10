@@ -2,7 +2,8 @@
 
 ## **Documentation: The Advanced Job Description Generation Engine**
 
-*(JD Generator)*
+
+App Link - *[JD Generator](https://app-llm-hackathon-jd.streamlit.app/)*
 
 ### **Overview**
 
