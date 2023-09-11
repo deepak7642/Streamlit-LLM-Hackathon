@@ -87,7 +87,7 @@ The JD Generator relies on the HuggingFace  [Open-Source GPT/LLM Model](https://
 
 
 
-- Model ref. (HuggingFace): The "Open-Source GPT/Open-Assistant" model from HuggingFace serves as the core language model for generating job responsibilities.
+- Model ref. (HuggingFace): The "Open-Source LLM/Open-Assistant" model from HuggingFace serves as the core language model for generating job responsibilities.
 
 
 
@@ -121,7 +121,7 @@ The JD Generator relies on the HuggingFace  [Open-Source GPT/LLM Model](https://
 
 
 
-3. Open-Source GPT Model (OpenAssistant):
+3. Open-Source LLM Model (OpenAssistant):
 
 
    - The core of the JD generation process is the "OpenAssistant" model from HuggingFace.
