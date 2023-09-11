@@ -83,7 +83,7 @@ The JD Generator relies on the HuggingFace  [Open-Source GPT/LLM Model](https://
 
 
 
-- Programming language (Python): The entire Rework_AI JD Generator is implemented in Python, making use of various libraries and tools to handle data and interface with the HuggingFace model.
+- Programming language (Python): The entire JD Generator is implemented in Python, making use of various libraries and tools to handle data and interface with the HuggingFace model.
 
 
 
