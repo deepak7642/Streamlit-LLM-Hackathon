@@ -5,6 +5,8 @@
 
 App Link - *[JD Generator](https://app-llm-hackathon-jd.streamlit.app/)*
 
+* This app cost me zero penny 
+
 ### **Overview**
 
 
